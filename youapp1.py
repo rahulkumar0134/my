@@ -801,11 +801,11 @@ def about_me_section():
         }
     </style>
     <div style="text-align:center; margin-top:20px;">
-        <a href="https://www.linkedin.com/in/suraj-kumar-a22608260/" class="social-link">
+        <a href="https://www.linkedin.com/in/rahul-kumar-a90b9922b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" class="social-link">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
         </a>
         &nbsp;
-        <a href="https://github.com/surajkumar4117" class="social-link">
+        <a href="https://github.com/rahulkumar0134" class="social-link">
             <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
         </a>
     </div>
