@@ -311,7 +311,7 @@ def load_model():
 @st.cache_resource
 def load_tokenizer():
     import pickle
-    with open("/Users/surajkumar/Documents/Data_Science/Sentiment//tokenizer.pkl", 'rb') as f:
+    with open("tokenizer.pkl", 'rb') as f:
         return pickle.load(f)
 
 model = load_model()
