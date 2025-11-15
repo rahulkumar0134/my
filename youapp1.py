@@ -784,7 +784,7 @@ def about_me_section():
             border-radius: 25px;       /* Rounded corners */
             box-shadow: 2px 2px 15px rgba(0,0,0,0.3); /* subtle shadow */
         ">
-            👋 Hi, I'm Suraj Kumar
+            👋 Hi, I'm Rahul Kumar
         </h1>
     </div>
     """, unsafe_allow_html=True)
